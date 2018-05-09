@@ -20,5 +20,14 @@ public class ClasseGenerica {
 
 	public static void metodoFeature8093() {
 		System.out.println("Feaytre 8093");
+		
+		System.out.println("Agora faz algo mais");
+		for (int i = 0; i < 20; i++) {
+			novaOperacaoCriadoNo8095();
+		}
+	}
+
+	private static void novaOperacaoCriadoNo8095() {
+		System.out.println("Fui criado no 8095");
 	}
 }
