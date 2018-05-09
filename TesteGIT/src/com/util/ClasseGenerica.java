@@ -2,6 +2,11 @@ package com.util;
 
 public class ClasseGenerica {
 
+	public static void metodoApenasFeature8094() {
+		// TODO Auto-generated method stub
+		
+	}
+
 	public static void metodoGenerico() {
 		System.out.println("Criado na 8090");
 	}
