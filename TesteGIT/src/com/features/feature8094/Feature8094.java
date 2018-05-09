@@ -23,7 +23,7 @@ public class Feature8094 {
 			chamaOutroMetodo();
 		}
 		
-		ClasseGenerica.metodoApenasFeature8094();
+		ClasseGenerica.metodoApenasFeature8094(null);
 	}
 	
 	private static void chamaOutroMetodo() {
