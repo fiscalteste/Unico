@@ -2,9 +2,8 @@ package com.util;
 
 public class ClasseGenerica {
 
-	public static void metodoApenasFeature8094() {
-		// TODO Auto-generated method stub
-		
+	public static void metodoApenasFeature8094(String string) {
+		System.out.println("Falando: " + string);
 	}
 
 	public static void metodoGenerico() {
