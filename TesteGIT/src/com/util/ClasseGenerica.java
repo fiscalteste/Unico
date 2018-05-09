@@ -7,6 +7,8 @@ public class ClasseGenerica {
 	}
 
 	public static void novoMetodoFeature8092() {
-		
+		System.out.println("Sou unico mesmo.");
+		System.out.println("Meu metodo 8092 que estava dando conflito");
+		System.out.println("Sou unico mesmo.");
 	}
 }
