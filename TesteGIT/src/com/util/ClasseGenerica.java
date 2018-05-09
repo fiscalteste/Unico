@@ -30,4 +30,8 @@ public class ClasseGenerica {
 	private static void novaOperacaoCriadoNo8095() {
 		System.out.println("Fui criado no 8095");
 	}
+
+	public static void novoMEtodo8098() {
+		System.out.println("Meu metodo que não deve dar merge!");
+	}
 }
