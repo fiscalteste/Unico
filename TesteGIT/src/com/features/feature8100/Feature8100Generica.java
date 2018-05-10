@@ -14,6 +14,6 @@ public class Feature8100Generica {
 	}
 	
 	public static void somaValores() {
-		System.out.println("Soma valores criado na 8101");
+		System.out.println("Soma valores criado na 8101 - segunda tentativa");
 	}
 }
