@@ -10,6 +10,11 @@ public class Feature8100Generica {
 		for (int i = 0; i < conta; i++) {
 			System.out.println("Conta n" + conta + " em nome do " + nome);
 		}
+		somaValores();
+	}
+	
+	public static void somaValores() {
+		System.out.println("Soma valores criado na 8101");
 	}
 	
 	public static void andamentoSprint8102() {
