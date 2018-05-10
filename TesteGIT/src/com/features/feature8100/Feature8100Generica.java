@@ -11,4 +11,8 @@ public class Feature8100Generica {
 			System.out.println("Conta n" + conta + " em nome do " + nome);
 		}
 	}
+	
+	public static void andamentoSprint8102() {
+		System.out.println("Não devera dar merge pois esse metodo é independente!");
+	}
 }
