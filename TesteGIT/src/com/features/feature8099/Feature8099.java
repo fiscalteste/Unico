@@ -11,6 +11,6 @@ public class Feature8099 {
 			System.out.println("Repete feature 8099");
 		}
 
-		ClasseGenerica.metodoApenasFeature8094();
+		ClasseGenerica.metodoApenasFeature8094("Correção build quebrado");
 	}
 }
